@@ -14,7 +14,7 @@ Through Task 1, I enhanced my skills in crafting visual representations such as 
 
 Feel free to reach out to me for any queries or feedbacks regarding this project.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aasika-es-92502a211/)
+My LinkedIn profile: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aasika-es-92502a211/)
 
 
 
