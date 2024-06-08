@@ -11,8 +11,9 @@ Create a bar chart or histogram to visualize the distribution of a categorical o
 Through Task 1, I enhanced my skills in crafting visual representations such as bar charts and histograms, which serve to elucidate the distribution patterns of categorical and numerical data, thereby offering more transparent observations of population demographics and various data compilations.
 
 **CONTACT INFO**
+
 Feel free to reach out to me for any queries or feedbacks regarding this project.
 
-<img src="{https://www.linkedin.com/in/aasika-es-92502a211/}" />
+!LinkedIn
 
 Email: aasikasivaji@gmail.com
