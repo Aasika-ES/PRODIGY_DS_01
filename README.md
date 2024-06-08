@@ -13,5 +13,5 @@ Through Task 1, I enhanced my skills in crafting visual representations such as 
 **CONTACT INFO**
 Feel free to reach out to me for any queries or feedbacks regarding this project.
 
-Aasika-ES (LinkedIn)
+Aasika ES(LinkedIn)
 Email: aasikasivaji@gmail.com
